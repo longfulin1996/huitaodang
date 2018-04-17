@@ -1,0 +1,40 @@
+{
+  "id": "80474710805",
+  "platform": "TM",
+  "img": "//gaitaobao4.alicdn.com/tfscom/i2/TB1A8y8ocnI8KJjSspeXXcwIpXa_!!2-item_pic.png_400x400.jpg",
+  "name": "2017秋冬新款韩版半高领女修身流苏针织衫打底衫毛衣上衣外套",
+  "price": 69,
+  "coupon": 20,
+  "tbPassword": "￥PhG30oDzaJH￥",
+  "endTime": "4000000",
+  "echarts": "数据",
+  "reason": "凝妆半高领女士流苏针织衫，精选优质面料，舒适贴身，弹性十足，修身显瘦，下摆流苏设计，尽显女人的魅惑之美！<br>天猫有商家报价59.9元，可用20元券，实付39.9元包邮，月销量1173件。<br>",
+  "other":[
+    {
+      "name": "满69减20",
+      "term": "02月22日~03月22日",
+      "limitCollar": "不限"
+    },{
+      "name": "满169减50",
+      "term": "02月22日~03月22日",
+      "limitCollar": "不限"
+    }
+  ],
+  "recommend": [
+    {
+      "id": 162440522424,
+      "title": "首页2018秋冬新款石墨烯加绒加厚打底裤发热裤高腰外穿保暖裤男女",
+      "images": "https://gaitaobao4.alicdn.com/tfscom/i2/TB1E6awkhTI8KJjSspiXXbM4FXa_!!0-item_pic.jpg_250x250.jpg",
+      "platform": "TM",
+      "price": 189,
+      "coupon": 80
+    },{
+      "id": 181115113243,
+      "title": "长袖t恤男韩版修身小衫潮流帅气2017刺绣加绒保暖衣服打底衫男装",
+      "images": "https://gaitaobao4.alicdn.com/tfscom/i2/TB17tmHj0fJ8KJjy0FeXXXKEXXa_!!0-item_pic.jpg_250x250.jpg",
+      "platform": "TM",
+      "price": 69,
+      "coupon": 30
+    }
+  ]
+}
