@@ -1,6 +1,6 @@
 # huitaodang
 
-> A Vue.js project
+> 惠淘党
 
 ## Build Setup
 
